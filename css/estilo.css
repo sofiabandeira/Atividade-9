@@ -14,15 +14,15 @@
     display: inline;
     list-style-type: none;
     text-decoration: none;
-    background-color: rgb(235, 13, 161);
-    border: 7px solid rgb(243, 6, 125);
+    background-color: rgb(236, 16, 145);
+    border: 7px solid rgb(230, 29, 129);
     border-radius: 5px;
     color: rgb(24, 3, 22);
 }
 
 .content1 a{
     text-decoration: none;
-    color: rgba(199, 151, 226, 0.856);
+    color: rgb(10, 0, 15);
 }
 
 .content2 {
@@ -52,7 +52,7 @@
     color: rgb(112, 3, 139);
 }
 
-/*Layout 2*/
+/*pagina 2*/
 
 .blocoPrincipal {
     height: 50vh;
@@ -100,7 +100,7 @@
     background-color: rgb(238, 4, 4);
 }
 
-/*Layout 3*/
+/*pagina 3*/
 
 .container1 {
     display: flex;
