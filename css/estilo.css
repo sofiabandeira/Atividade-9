@@ -14,10 +14,10 @@
     display: inline;
     list-style-type: none;
     text-decoration: none;
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(235, 13, 161);
     border: 7px solid rgb(243, 6, 125);
     border-radius: 5px;
-    color: rgba(252, 0, 231, 0.13);
+    color: rgb(24, 3, 22);
 }
 
 .content1 a{
